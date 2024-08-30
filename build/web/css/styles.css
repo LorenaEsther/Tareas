@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #44FC8C;
+    padding: 20px 0;
+}
+
+.head {
+    background-color: #44DEFC;
+}
+
+.buttom-primary {
+    background-color: #44FCDF;
+}
