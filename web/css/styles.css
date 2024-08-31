@@ -11,6 +11,33 @@ footer {
     background-color: #44DEFC;
 }
 
+#img01{
+    width: 80%;
+    height: 80%;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+#img02{
+    width: 80%;
+    height: 80%;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+#img03{
+    width: 80%;
+    height: 80%;
+}
+
+.contenedor{
+    text-align: center;
+}
+
 .buttom-primary {
     background-color: #44FCDF;
 }
